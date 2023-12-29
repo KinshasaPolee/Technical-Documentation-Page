@@ -32,7 +32,7 @@ On regular sized devices (laptops, desktops), the element with id="navbar" shoul
 
 Your technical documentation should use at least one media query
 # Authors
-- [@KinshasaPolee](https://github.com/KinshasaPolee/BOM)
+- [@KinshasaPolee](https://github.com/KinshasaPolee)
 - [@octokatherine](https://www.github.com/octokatherine)
 - [@freecodecamp](https://www.freecodecamp.org/certification/Kpolee/responsive-web-design)
 - [@PsychCentral](https://psychcentral.com/blog/how-to-achieve-peace-of-mind#forgive)
